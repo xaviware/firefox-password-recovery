@@ -138,12 +138,10 @@ Al acceder a este repositorio, usted confirma:
 ## 📞 Contacto y Consultas
 
 ### Para Propósitos Académicos
-- **Email**: academic-research@example.com
 - **GitHub Issues**: Para preguntas técnicas sobre código
 - **Discussions**: Para análisis colaborativo
 
 ### Para Asuntos Legales
-- **Email**: legal@example.com
 - **Asunto**: "Academic License Inquiry"
 
 ---

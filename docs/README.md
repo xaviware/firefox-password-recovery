@@ -144,7 +144,6 @@ Esta carpeta contiene toda la documentación académica e histórica del reposit
 ### Para Consultas
 - **GitHub Issues**: Preguntas técnicas
 - **GitHub Discussions**: Análisis colaborativo
-- **Email**: academic-research@example.com
 
 ### Para Contribuciones
 - **Proceso**: Ver [CONTRIBUTING_ACADEMIC.md](./CONTRIBUTING_ACADEMIC.md)
