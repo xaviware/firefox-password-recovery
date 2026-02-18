@@ -122,12 +122,10 @@ target-audience: ["researchers", "educators", "students"]
 ## 📞 Contacto Académico
 
 ### Para Consultas de Investigación
-- **Email**: academic-research@example.com
 - **GitHub Issues**: Preguntas técnicas
 - **Discussions**: Colaboración académica
 
 ### Para Asuntos Institucionales
-- **Email**: institutional@example.com
 - **Asunto**: "Academic Repository Inquiry"
 
 ---

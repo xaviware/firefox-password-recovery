@@ -325,12 +325,10 @@ git push origin academic/[tipo]-[descripción]
 ## 📞 Contacto para Contribuciones
 
 ### Para Consultas Académicas
-- **Email**: academic-contributions@example.com
 - **GitHub Discussions**: Para colaboraciones abiertas
 - **Issues**: Para preguntas sobre contribuciones específicas
 
 ### Para Propuestas de Investigación
-- **Email**: research-proposals@example.com
 - **Asunto**: "Academic Research Proposal"
 
 ---
