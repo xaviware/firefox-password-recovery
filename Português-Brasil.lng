@@ -1,0 +1,85 @@
+;Mozilla Firefox Password Recovery
+;General Information
+[GralInfo]
+TranslatorName="Javier Orellana"
+TranslatorURL="http://www.xaviware.cl"
+TranslatorEMail="xaviware@xaviware.cl"
+TranslatorDate="20100214"
+LanguageName="Português brasileiro"
+LanguageFileVersion="v.1.0"
+
+;SPECIAL TAGS:
+;<APP/>   = Aplication Name (Mozilla Firefox Password Recovery)
+;<APP/>   = Utilitário de Recuperação de Senhas do Mozilla Firefox
+
+;Label Area
+[lblArchivo]
+Caption="Arquivo"
+[lblRegistrado]
+Caption="Cópia registrada"
+[lblGracias]
+Caption="Obrigado por escolher a  XaviWare Software. Registre sua cópia hoje mesmo para habilitar todas as funcionalidades do <APP/>"
+[lblPorFavor]
+Caption="Por favor, envie um email para:"
+[lblRegEmail]
+Caption="com <<register MF>> no campo de assunto. Inclua seu nome no corpo da mensagem para receber informações sobre atualizações e novos programas gratuitos ou shareware lançados pela Xaviware Software."
+[lblDisclaimer]
+Caption="Aviso: este programa é protegido pelas leis de direito autoral, royalties, e outros tratados internacionais. A reprodução ou distribuição ilícita desse programa, ou qualquer parte do mesmo serão objeto de ações judiciais e são passíveis de punições legais e severas sanções civis e criminais."
+[lblDescription]
+Caption="<APP/> recupera instantaneamente os nomes de usuário e respectivas senhas armazenadas no por Mozilla Firefox 3.5. / 3.6. / 4.0 y 5.0"
+[lblDev]
+Caption="Desenvolvedor"
+[lblColaborador]
+Caption="Colaboradores"
+[lblTrans]
+Caption="Tradutor da interface"
+
+;Button Area
+[cmdOk]
+Caption="&Ok"
+[cmdCancel]
+Caption="&Cancelar"
+[cmdObtener]
+ToolTipText="Recuperar senhas"
+[cmdSalir]
+ToolTipText="Sair"
+[cmdBuyNow]
+ToolTipText="Registre o produto online"
+
+;Frame Area
+[frameReg]
+Caption="Digite sua chave de registro"
+
+;Menu Area
+[mnuOpciones]
+Caption="&Opções"
+[mnuIdioma]
+Caption="&Idioma"
+[mnuAyuda]
+Caption="&Ajuda"
+[mnuAcercaDe]
+Caption="&Sobre ..."
+[mnuCompra]
+Caption="Compre online"
+[mnuFeedBack]
+Caption="Enviar Sugestão"
+[mnuGoToWeb]
+Caption="Visitar a página do <APP/>"
+[mnuAyudaF1]
+Caption="&Ajuda"
+[mnuRegistro]
+Caption="Registro..."
+[mnuProducts]
+Caption="Outros Produtos"
+[mnuWebbrowsers]
+Caption="Navegadores Web"
+
+;Msg Area
+[MSG]
+MSGUSR = "USUÁRIO"
+MSGPWD = "SENHA"
+MSGWARRANTY = "Essa mensagem garante que com a versão registrada desse programa você será capaz de recuperar as seguintes senhas. Com a compra do  <APP/> você poderá ver as senhas completas."
+MSGERRINVALIDKEY = "A chave de registro informada é inválida, tente de novo!"
+MSGREGISTERED = "<APP/> foi registrado com sucesso"
+MSGPWDNOTSTORED = "Não foram encontradas senhas armazenadas no sistema."
+MSGPWDFOUND = "A senha foi encontrada. No entanto, apenas os dois primeiros caracteres são exibidos na versão não registrada."

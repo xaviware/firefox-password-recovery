@@ -1,0 +1,26 @@
+Mozilla Firefox Password Recovery: versions history
+===================================================
+
+! bug fixed
++ improvement/modification
+- wish list
+
+Version 5.0.0 - 20110814
+------------------------
+[+] AntiDebbuger Protection is added.
+[+] Other Products Menu is Added.
+[!] Support for Firefox versions 4.0 & 5.0 
+
+Version 1.0.2 - 20100306
+------------------------
+[+] Romanian Language Interface is added. [Translator - Cristian Stefan]
+
+Version 1.0.1 - 20100219
+------------------------
+[!] Registration key check is fixed
+[+] Bulgarian Language Interface is added. [Translator - Kaloyan Stolinov]
+[+] Show Password Message Format is improved.
+
+Version 1.0.0 - 20100214
+------------------------
+First public release.

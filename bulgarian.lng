@@ -1,0 +1,83 @@
+;Mozilla Firefox Password Recovery
+;General Information
+[GralInfo]
+TranslatorName="Калоян Столинов"
+TranslatorURL="http://vnccotrol.hit.bg"
+TranslatorEMail="kaloyan.stolinov@bul-source.com"
+TranslatorDate="20100219"
+LanguageName="Български"
+LanguageFileVersion="v.1.0"
+;SPECIAL TAGS:
+;<APP/>   = Aplication Name (Mozilla Firefox Password Recovery)
+
+;Label Area
+[lblArchivo]
+Caption="Файл"
+[lblRegistrado]
+Caption="Регистриран софтуер"
+[lblGracias]
+Caption="Благодарим Ви, че избрахте XaviWare Software. Регистрирайте се сега и отключете всички функции на <APP/>"
+[lblPorFavor]
+Caption="Моля, изпратете И-мейл до:"
+[lblRegEmail]
+Caption="със <<register MF>> в темата и вашето име в тялото на писмото, за да получавате информация за нови версии и програми създадени от нас."
+[lblDisclaimer]
+Caption="Внимание: тази програма е защитена от законите за авторски права и други международни споразумения. Репродуцирането или незаконното разпространение на тази програма, или която и да е част от нея, се наказва от закона със строги граждански и наказателни санкции и ще бъдат обект на всички съответни съдебни действия."
+[lblDescription]
+Caption="<APP/> моментално извлича лог-ин информацията и паролите на потребителските акаунти запазени в Mozilla Firefox 3.5. / 3.6. / 4.0 and 5.0"
+[lblDev]
+Caption="Разработчик"
+[lblColaborador]
+Caption="Сътрудници"
+[lblTrans]
+Caption="Преводач"
+
+;Button Area
+[cmdOk]
+Caption="&ДА"
+[cmdCancel]
+Caption="&Отказ"
+[cmdObtener]
+ToolTipText="Възстанови паролите"
+[cmdSalir]
+ToolTipText="Изход"
+[cmdBuyNow]
+ToolTipText="Купете продукта Он-лайн"
+
+;Frame Area
+[frameReg]
+Caption="Въведете Вашия регистрационен ключ"
+
+;Menu Area
+[mnuOpciones]
+Caption="&Опции"
+[mnuIdioma]
+Caption="&Език"
+[mnuAyuda]
+Caption="&Помощ"
+[mnuAcercaDe]
+Caption="&За програмата..."
+[mnuCompra]
+Caption="Поръчайте Он-лайн"
+[mnuFeedBack]
+Caption="Изпратете предложение"
+[mnuGoToWeb]
+Caption="Посетете страницата на <APP/>"
+[mnuAyudaF1]
+Caption="&Помощ"
+[mnuRegistro]
+Caption="Регистрация..."
+[mnuProducts]
+Caption="Other Products"
+[mnuWebbrowsers]
+Caption="Web Browsers"
+
+;Msg Area
+[MSG]
+MSGUSR = USERNAME
+MSGPWD = PASSWORD
+MSGWARRANTY = "С това съобщение Ви уведомяваме, че с тази програма можете да възстановите показаните пароли, а ако закупите <APP/> ще можете да възстановявате всички пароли."
+MSGERRINVALIDKEY = "Подаденият регистрационен ключ е невалиден, моля опитайте отново!"
+MSGREGISTERED = "<APP/> е регистрирана успешно!"
+MSGPWDNOTSTORED = "Не са намерени съхранени пароли в системата."
+MSGPWDFOUND = "Паролата е открита, но Вие можете да видите само първите два символа от нея с нерегистрираната версия на програмата."

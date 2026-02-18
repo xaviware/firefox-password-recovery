@@ -1,0 +1,83 @@
+;Mozilla Firefox Password Recovery
+;General Information
+[GralInfo]
+TranslatorName="Javier Orellana"
+TranslatorURL="http://www.xaviware.cl"
+TranslatorEMail="xaviware@xaviware.cl"
+TranslatorDate="20100214"
+LanguageName="English"
+LanguageFileVersion="v.1.0"
+;SPECIAL TAGS:
+;<APP/>   = Aplication Name (Mozilla Firefox Password Recovery)
+
+;Label Area
+[lblArchivo]
+Caption="File"
+[lblRegistrado]
+Caption="Registered software"
+[lblGracias]
+Caption="Thank you for choosing XaviWare Software. Register today to enable all functionalities of <APP/>"
+[lblPorFavor]
+Caption="Please, send an email to :"
+[lblRegEmail]
+Caption="with <<register MF>> in the subject, include your name in the Body to receive information about upgrades and freeware or shareware software published by us."
+[lblDisclaimer]
+Caption="Warning: this program is protected by the laws of royalties and other international treaties. The reproduction or illicit distribution of this program, or of any part of the same one it is punished by the law with severe civil and penal sanctions, and it will be object of all the judicial actions that correspond."
+[lblDescription]
+Caption="<APP/> instantly retrieves the login and password information user accounts stored in Mozilla Firefox 3.5. / 3.6. / 4.0 and 5.0" 
+[lblDev]
+Caption="Software Developer"
+[lblColaborador]
+Caption="Collaborators"
+[lblTrans]
+Caption="Interface Translator"
+
+;Button Area
+[cmdOk]
+Caption="&Ok"
+[cmdCancel]
+Caption="&Cancel"
+[cmdObtener]
+ToolTipText="Recover Passwords"
+[cmdSalir]
+ToolTipText="Exit"
+[cmdBuyNow]
+ToolTipText="Buy the Product On-Line"
+
+;Frame Area
+[frameReg]
+Caption="Enter your Key of Registration"
+
+;Menu Area
+[mnuOpciones]
+Caption="&Options"
+[mnuIdioma]
+Caption="&Language"
+[mnuAyuda]
+Caption="&Help"
+[mnuAcercaDe]
+Caption="&About ..."
+[mnuCompra]
+Caption="Order On-line"
+[mnuFeedBack]
+Caption="Send Suggestion"
+[mnuGoToWeb]
+Caption="Go to the Web of <APP/>"
+[mnuAyudaF1]
+Caption="&Help"
+[mnuRegistro]
+Caption="Registration..."
+[mnuProducts]
+Caption="Other Products"
+[mnuWebbrowsers]
+Caption="Web Browsers"
+
+;Msg Area
+[MSG]
+MSGUSR = USERNAME
+MSGPWD = PASSWORD
+MSGWARRANTY = This message is a warranty that with this program you can recover the nexts passwords, with the purchase of <APP/> you will can see your passwords fully.
+MSGERRINVALIDKEY = "The specified registration key isn't valid, please try again!"
+MSGREGISTERED = "<APP/> has been registered successfully"
+MSGPWDNOTSTORED = "Stored passwords not found in the system."
+MSGPWDFOUND = "The password has been found, but you can see only the first two characters of it in the trial version."

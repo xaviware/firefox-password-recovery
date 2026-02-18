@@ -1,0 +1,79 @@
+;Mozilla Firefox Password Recovery
+;General Information
+[GralInfo]
+TranslatorName="Cristian Stefan"
+TranslatorURL=""
+TranslatorEMail="crstfn@yahoo.com"
+TranslatorDate="20100225"
+LanguageName="Romana"
+LanguageFileVersion="v.1.0"
+;SPECIAL TAGS:
+;<APP/>   = Aplication Name (Mozilla Firefox Password Recovery)
+
+;Label Area
+[lblArchivo]
+Caption="Fisier"
+[lblRegistrado]
+Caption="Program inregistrat"
+[lblGracias]
+Caption="Multumim pentru alegerea XaviWare Software. Inregistrati astazi pentru a activa toate functiile <APP/>"
+[lblPorFavor]
+Caption="Trimiteti email la :"
+[lblRegEmail]
+Caption="cu <<register MF>> ca subject, includeti numele dvs pentru a primi informatii referitoare la upgrade si alte programe freeware sau shareware produse de noi."
+[lblDisclaimer]
+Caption="Atentie: acest program este protejat de legea dreptului de autor si de alte tratate internationale. Reproducerea sau distribuirea ilegala a acestui program, sau a unor parti din el se pedepseste conform legii cu sanctiuni civile sau penale, si va fi subiectul actiunilor juridice corespunzatoare."
+[lblDescription]
+Caption="<APP/> recupereaza instantaneu informatiile despre login si parole din conturile de utilizator salvate in Mozilla Firefox 3.5.x. / 3.6." 
+[lblDev]
+Caption="Programator"
+[lblColaborador]
+Caption="Colaboratori"
+[lblTrans]
+Caption="Traducator interfata"
+
+;Button Area
+[cmdOk]
+Caption="&Ok"
+[cmdCancel]
+Caption="Anuleaza"
+[cmdObtener]
+ToolTipText="Recupereaza Parole"
+[cmdSalir]
+ToolTipText="Iesire"
+[cmdBuyNow]
+ToolTipText="Cumpara Produsul On-Line"
+
+;Frame Area
+[frameReg]
+Caption="Introduceti cheia de inregistrare"
+
+;Menu Area
+[mnuOpciones]
+Caption="&Optiuni"
+[mnuIdioma]
+Caption="&Limba"
+[mnuAyuda]
+Caption="&Ajutor"
+[mnuAcercaDe]
+Caption="&Despre ..."
+[mnuCompra]
+Caption="Comanda On-line"
+[mnuFeedBack]
+Caption="Trimite Sugestii"
+[mnuGoToWeb]
+Caption="Website <APP/>"
+[mnuAyudaF1]
+Caption="&Ajutor"
+[mnuRegistro]
+Caption="Inregistrare..."
+
+;Msg Area
+[MSG]
+MSGUSR = NUME
+MSGPWD = PAROLA
+MSGWARRANTY = acest mesaj este o garantie ca puteti recupera urmatoarele parole, la cumpararea <APP/> veti putea vedea parolele.
+MSGERRINVALIDKEY = "Cheie de inregistrare invalida, incercati din nou!"
+MSGREGISTERED = "<APP/> a fost inregistrat cu succes"
+MSGPWDNOTSTORED = "Nu exista parole stocate in sistem."
+MSGPWDFOUND = "Parola a fost gasita, dar puteti vedea doar primele doua caractere in versiunea de proba."

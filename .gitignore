@@ -1,0 +1,13 @@
+# VB6 specific
+*.vbw
+*.scc
+*.pdm
+MSSCCPRJ.SCC
+
+# OS specific
+Thumbs.db
+Desktop.ini
+
+# Explicitly allow binaries for this legacy project
+!*.exe
+!*.dll
