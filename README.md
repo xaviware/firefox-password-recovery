@@ -1,51 +1,168 @@
-# Mozilla Firefox Password Recovery
+# Mozilla Firefox Password Recovery (2010-2011)
 
-![Version](https://img.shields.io/badge/version-5.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-Shareware-orange.svg)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+## ⚠️ ARCHIVO HISTÓRICO ACADÉMICO
 
-**Mozilla Firefox Password Recovery** is a legacy utility designed to instantly recover stored passwords from the Mozilla Firefox web browser. Developed in Visual Basic 6, it leverages internal decryption libraries and SQLite database access to provide a quick and efficient recovery process.
+**Software obsoleto e inseguro - Exclusivamente para investigación educativa**
 
-## 🚀 Features
-
-- **Instant Recovery:** Recover all stored usernames and passwords with a single click.
-- **Multi-version Support:** Compatible with legacy versions of Firefox (including 4.0 and 5.0).
-- **Multi-language Interface:** Supports English, Spanish, Portuguese-Brazil, Bulgarian, Romanian, and more.
-- **SQLite Integration:** Directly reads the browser's profile databases.
-- **Anti-Debugger Protection:** Enhanced security measures in the latest version.
-
-## 🛠️ Technical Details
-
-- **Language:** Visual Basic 6.0 (VB6)
-- **Database:** SQLite 3 (via `sqlite3.dll`)
-- **Decryption:** Utilizes Mozilla's `NSS` (Network Security Services) libraries for handling encrypted credentials.
-- **Architecture:** Uses a custom CDECL translation class (`cCDECL.cls`) to interface with standard C libraries from VB6.
-
-## 📋 Installation & Usage
-
-1. **Requirements:**
-   - Windows OS.
-   - `sqlite3.dll` must be present in the application directory.
-   - Mozilla Firefox installed (or profile data available).
-
-2. **Quick Start:**
-   - Run the executable (`PWDMFF.exe`).
-   - Click the **"Recover Passwords"** button.
-   - The recovered data will be displayed instantly in the main grid.
-
-## 📜 Licensing
-
-This software is distributed as **Shareware**. 
-- All copyrights are owned by **XaviWare Software Ltda.**
-- The unregistered version may be freely distributed in its original form.
-- Commercial use or reverse engineering is prohibited under the license terms.
-
-## 📅 Version History
-
-- **v5.0.0 (2011-08-14):** Added Anti-Debugger protection and Support for Firefox 4/5.
-- **v1.0.2 (2010-03-06):** Added Romanian language support.
-- **v1.0.1 (2010-02-19):** Bug fixes in registration and added Bulgarian support.
-- **v1.0.0 (2010-02-14):** Initial public release.
+- ❌ **NO FUNCIONA** con Firefox 58+ (2018)
+- ❌ **INSEGURO** según estándares modernos  
+- ❌ **OBSOLETO** metodológicamente
+- ✅ **SOLO PARA** estudio académico histórico
 
 ---
-Developed by **XaviWare Software**
+
+## 📚 Documentación Académica Completa
+
+### 🎓 Análisis Principal
+- **[docs/ACADEMIC_ANALYSIS.md](./docs/ACADEMIC_ANALYSIS.md)** - Análisis técnico completo y contexto histórico
+
+### 📖 Documentación de Soporte  
+- **[docs/README_HISTORICAL.md](./docs/README_HISTORICAL.md)** - Guía histórica detallada
+- **[docs/CODE_STRUCTURE.md](./docs/CODE_STRUCTURE.md)** - Arquitectura y componentes
+- **[docs/SECURITY_EVOLUTION.md](./docs/SECURITY_EVOLUTION.md)** - Evolución de seguridad (2010-2024)
+
+### 📄 Documentación Legal y Académica
+- **[docs/LICENSE_ACADEMIC.md](./docs/LICENSE_ACADEMIC.md)** - Licencia de preservación académica
+- **[docs/CONTRIBUTING_ACADEMIC.md](./docs/CONTRIBUTING_ACADEMIC.md)** - Guía de contribuciones académicas
+- **[docs/ACADEMIC_PRESERVATION.md](./docs/ACADEMIC_PRESERVATION.md)** - Resumen del proyecto
+
+---
+
+## 🏛️ Propósito Académico
+
+Este repositorio preserva un **fósil tecnológico** de la era 2010-2011 para:
+
+1. **Investigación Histórica**: Estudio de arquitecturas de seguridad pasadas
+2. **Educación en Ciberseguridad**: Material didáctico para cursos universitarios  
+3. **Análisis de Vulnerabilidades**: Casos reales que impulsaron innovación
+4. **Evolución Tecnológica**: Comparación con métodos modernos
+
+---
+
+## � Valor Educativo
+
+### Temas de Estudio Disponibles
+- ✅ **Ingeniería Inversa**: Puentes VB6-C/C++ mediante CDECL
+- ✅ **Vulnerabilidades Clásicas**: Bypass de autenticación NSS
+- ✅ **Arquitectura Histórica**: SQLite + NSS en Firefox 3.5x-5.0x
+- ✅ **Lecciones de Seguridad**: De confianza local a zero-trust
+
+### Metodologías Aplicables
+- 🔬 **Análisis Estático**: Código fuente histórico
+- 🔬 **Análisis Comparativo**: 2010 vs 2024
+- 🔬 **Estudio de Casos**: Impacto real de vulnerabilidades
+- 🔬 **Investigación Histórica**: Contexto tecnológico
+
+---
+
+## ⚠️ Advertencias Fundamentales
+
+### Seguridad
+- **OBSOLETO**: No funciona con navegadores modernos
+- **INSEGURO**: Contiene vulnerabilidades por diseño
+- **DETECTADO**: Por antivirus modernos
+- **RIESGO**: Solo analizar en entorno aislado
+
+### Uso Prohibido
+- ❌ **Sistemas modernos**: No aplicar a Firefox actual
+- ❌ **Uso malicioso**: Prohibido explotación de vulnerabilidades
+- ❌ **Producción**: No implementar en ningún entorno
+- ❌ **Distribución**: Sin contexto académico
+
+---
+
+## 📋 Información del Proyecto Original
+
+| Propiedad | Valor |
+|-----------|-------|
+| **Nombre** | Mozilla Firefox Password Recovery |
+| **Versión** | 5.0.0 (2011-08-14) |
+| **Desarrollador** | XaviWare Software Ltda. |
+| **Tecnología** | Visual Basic 6.0 |
+| **Compatibilidad** | Firefox 3.5.x - 5.0.x |
+| **Licencia Original** | Shareware |
+
+---
+
+## 🚀 Estructura del Repositorio
+
+```
+firefox-password-recovery/
+├── README.md                    # Este archivo
+├── docs/                        # Documentación académica
+│   ├── ACADEMIC_ANALYSIS.md    # Análisis técnico completo
+│   ├── README_HISTORICAL.md    # Guía histórica
+│   ├── CODE_STRUCTURE.md        # Arquitectura
+│   ├── SECURITY_EVOLUTION.md    # Evolución de seguridad
+│   ├── LICENSE_ACADEMIC.md      # Licencia académica
+│   ├── CONTRIBUTING_ACADEMIC.md # Contribuciones
+│   └── ACADEMIC_PRESERVATION.md # Resumen
+├── *.cls                        # Código fuente VB6
+├── *.frm                        # Formularios VB6
+├── *.bas                        # Módulos VB6
+└── Antecedentes/                # Versiones históricas
+```
+
+---
+
+## 🎓 Para Investigadores y Educadores
+
+### Uso Apropiado
+1. **Análisis Estático**: Estudiar código fuente sin ejecutar
+2. **Contexto Histórico**: Comprender paradigmas de 2010-2011
+3. **Comparación Educativa**: Contrastar con arquitecturas modernas
+4. **Material Didáctico**: Usar en cursos de ciberseguridad
+
+### Citas Académicas
+```bibtex
+@software{firefox_password_recovery_2011,
+  title={Mozilla Firefox Password Recovery v5.0.0},
+  author={XaviWare Software Ltda.},
+  year={2011},
+  note={Preserved for academic research purposes only},
+  url={https://github.com/[repository-url]}
+}
+```
+
+---
+
+## 📞 Contacto Académico
+
+### Para Consultas de Investigación
+- **GitHub Issues**: Preguntas técnicas sobre código
+- **GitHub Discussions**: Análisis colaborativo
+
+### Para Asuntos Institucionales
+- **Asunto**: "Academic Repository Inquiry"
+
+---
+
+## � Mantenimiento Académico
+
+### Contribuciones
+Ver **[docs/CONTRIBUTING_ACADEMIC.md](./docs/CONTRIBUTING_ACADEMIC.md)** para guías de contribución académica.
+
+### Actualizaciones
+- **Anual**: Revisión de relevancia académica
+- **Bienal**: Actualización de referencias
+- **Quinquenal**: Evaluación de impacto educativo
+
+---
+
+## 📄 Licencia
+
+Este repositorio se mantiene bajo **licencia académica de preservación histórica**. Ver **[docs/LICENSE_ACADEMIC.md](./docs/LICENSE_ACADEMIC.md)** para términos completos.
+
+---
+
+## 🏛️ Conclusión
+
+Este archivo preserva una **cápsula del tiempo tecnológico** fundamental para entender la evolución de la seguridad web. Su estudio académico contribuye a construir un futuro digital más seguro mediante el análisis de lecciones históricas.
+
+**"Quien no conoce su historia está condenado a repetirla." - Aplicable a la ciberseguridad**
+
+---
+
+*Última actualización: 18 de Febrero de 2025*  
+*Estado: Archivo académico histórico*  
+*Propósito: Preservación educativa exclusiva*

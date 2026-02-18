@@ -1,13 +1,222 @@
-# VB6 specific
+# .gitignore para Repositorio Académico Histórico
+# Mantenido para preservación de código fuente y documentación académica
+
+# --- Archivos de VB6 (Compilación y Temporales) ---
 *.vbw
 *.scc
 *.pdm
 MSSCCPRJ.SCC
+*.frx
+*.vbp
+*.tmp
+*.temp
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.ncb
+*.opt
+*.plg
+*.aps
+*.clw
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# OS specific
+# --- Archivos del Sistema Operativo ---
 Thumbs.db
 Desktop.ini
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 
-# Explicitly allow binaries for this legacy project
+# --- Archivos Temporales y Backup ---
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+*.swp
+*.swo
+*~
+*.~*
+
+# --- Archivos de Configuración Local ---
+config.ini
+settings.ini
+local.ini
+debug.log
+error.log
+
+# --- Archivos de Logs y Debug ---
+*.log
+*.trace
+*.out
+*.err
+
+# --- Archivos de Documentación Generada ---
+*.chm
+*.hlp
+
+# --- Archivos de Instalación ---
+*.msi
+*.cab
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# --- Archivos de Base de Datos de Prueba ---
+profiles/
+signons.sqlite
+logins.json
+key4.db
+cert9.db
+*.sqlite
+*.sqlite3
+*.db
+*.mdb
+*.accdb
+
+# --- Archivos de Análisis y Reversing ---
+*.idb
+*.i64
+*.id0
+*.id1
+*.id2
+*.64
+*.32
+
+# --- Archivos de Documentación Temporal ---
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# --- Archivos de Python (para análisis académico) ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Archivos de Jupyter Notebooks ---
+.ipynb_checkpoints
+
+# --- Archivos de Entorno Virtual ---
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Archivos de IDE Modernos ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Archivos de Git ---
+.git
+.gitattributes
+.gitmodules
+
+# --- Archivos de CI/CD ---
+.github/
+.gitlab-ci.yml
+.travis.yml
+.circleci/
+
+# --- Archivos de Documentación Automática ---
+docs/_build/
+site/
+.jekyll-cache/
+
+# --- Archivos de Análisis Estático ---
+.coverage
+.pytest_cache/
+.tox/
+.nox/
+htmlcov/
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+
+# --- Archivos de Seguridad ---
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# --- Archivos de Testing ---
+test-results/
+coverage/
+reports/
+*.test
+*.tests
+
+# --- EXCEPCIONES IMPORTANTES: PRESERVACIÓN HISTÓRICA ---
+# Mantener binarios históricos para valor académico
 !*.exe
 !*.dll
+!*.ocx
+
+# Mantener código fuente histórico
+!*.cls
+!*.frm
+!*.bas
+
+# Mantener documentación académica
+!*.md
+!docs/
+!papers/
+!analysis/
+
+# Mantener archivos de configuración del proyecto
+!README.md
+!docs/
+!History.txt
+!PWDMFF.vbp
+!license.txt
+
+# Mantener archivos de recursos necesarios
+!*.lng
+!*.htm
+!*.jpg
+!*.frx
+!img/
+!Lang/
+!InnoSetup/
+!Paypal/
+
+# --- Comentarios de Mantenimiento ---
+# Este .gitignore está diseñado para preservar el valor académico
+# del repositorio mientras se excluyen archivos temporales
+# y de compilación que no aportan valor histórico.
+# Los binarios (.exe, .dll) se mantienen para análisis académico.
+
+# Actualizado: 2025-02-18
+# Propósito: Preservación académica histórica

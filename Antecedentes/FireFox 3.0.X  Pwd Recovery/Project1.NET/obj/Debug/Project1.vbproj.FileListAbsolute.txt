@@ -1,3 +1,0 @@
-H:\FireFox Password Recovery\FireFox 3.0.X  Pwd Recovery\Project1.NET\obj\Debug\ResolveAssemblyReference.cache
-H:\FireFox Password Recovery\FireFox 3.0.X  Pwd Recovery\Project1.NET\obj\Debug\Project1.Form1.resources
-H:\FireFox Password Recovery\FireFox 3.0.X  Pwd Recovery\Project1.NET\obj\Debug\Project1.vbproj.GenerateResource.Cache
